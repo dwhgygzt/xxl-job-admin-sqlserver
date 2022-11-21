@@ -40,7 +40,7 @@
         <maven-javadoc-plugin.version>2.10.4</maven-javadoc-plugin.version>
         <maven-gpg-plugin.version>1.4</maven-gpg-plugin.version>
         <maven-war-plugin.version>3.2.2</maven-war-plugin.version>
-        <xxl-job-core.version>2.0.2</xxl-job-core.version>
+        <xxl-job-core.version>2.3.1</xxl-job-core.version>
     </properties>
 
 
